@@ -1,0 +1,99 @@
+header{
+    position: relative;
+    bottom: 75px;
+}
+nav ul {
+    
+    background-color: #686669;
+    padding: 40px;
+}
+nav ul li {
+    display: inline;
+    padding: 6px;
+    margin: 30px;
+    position: relative;
+    right: -400px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    font-family: sans-serif;
+    color: rgba(255, 255, 255, 0.918);
+    font-weight: bold;
+}
+
+
+#logo{
+    position: relative;
+    top: 86px;
+    left: 195px;
+}
+
+#hero{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    bottom: 45px;
+}
+
+#sub {
+    position: relative;
+    top: -15px;
+    display: flex;
+    justify-content: center;
+}
+
+#sub1{
+    position: relative;
+    right: 30px;
+}
+#sub3{
+    position: relative;
+    right: -30px;
+}
+
+#sub4{
+
+    position: relative;
+    left: 195px;
+}
+
+#line3{
+    position: relative;
+    top: 15px;
+}
+#scroll{
+    position: relative;
+    left: 710px;
+    bottom: 407px;
+    
+}
+
+h3{
+    font-size: 30px;
+    font-weight: bold;
+ 
+}
+ p{
+    text-align: justify;
+    font-size: 20px;
+    max-width: 450px;
+    width: 450px;
+    height: 350px;
+    overflow: scroll;
+    line-height: 1.2;
+}
+
+button{
+    position: relative;
+    left: 162px;
+}
+
+footer {
+    background-color: #686669;
+    margin-bottom: 20px;
+    height: 200px;
+    position: relative;
+    bottom: 360px;
+  }
