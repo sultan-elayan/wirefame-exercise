@@ -85,9 +85,14 @@ h3{
     line-height: 1.2;
 }
 
-button{
+#h3s{
     position: relative;
-    left: 162px;
+    left: 1px;
+    background-color: #000000;
+    display: table;
+    padding: 10px;
+    color: white;
+    top: 5px;
 }
 
 footer {
